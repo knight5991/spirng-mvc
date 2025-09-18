@@ -16,4 +16,8 @@ public class Main {
     public void log() {
 //        完成登录
     }
+    public void logout() {
+//        完成dengchu
+
+    }
 }
