@@ -13,7 +13,7 @@ public class Main {
         //完成功能开发1
 //      完成2功能
     }
-    public void logout() {
-//        完成删除123
+    public void log() {
+//        完成登录
     }
 }
