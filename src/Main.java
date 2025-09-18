@@ -13,7 +13,12 @@ public class Main {
         //完成功能开发1
 //      完成2功能
     }
+
     public void log() {
 //        完成登录
+    }
+    public void logout() {
+//        完成dengchu
+
     }
 }
